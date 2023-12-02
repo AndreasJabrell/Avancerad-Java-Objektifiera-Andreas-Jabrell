@@ -1,0 +1,2 @@
+detta är en text fil
+by: Aleksander Bjelk, credit due to Alrik He for the code.
